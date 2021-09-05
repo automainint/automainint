@@ -6,7 +6,7 @@
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
 - ⚙️ Continuous integration
-- 📊 Agile
+- 📊 Agile software development
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
