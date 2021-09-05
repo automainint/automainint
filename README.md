@@ -1,28 +1,29 @@
-Hi! I'm a 🏴freelance C++ developer from Moscow, Russia.
+**Hi!**
+I'm a 🏴freelance C++ developer from Moscow, Russia.
 
-Interested in
-- 👨🏼‍💻 Functional programming.
-- 🤹‍♀️ Test-driven development.
-- ⚙️ Continuous integration.
-- 📊 Agile.
-- 🎶 Music synthesis.
-- 👋🏻 Meeting new people.
+INTERESTED IN
+- 👨🏼‍💻 Functional programming
+- 🤹‍♀️ Test-driven development
+- ⚙️ Continuous integration
+- 📊 Agile
+- 🎶 Music synthesis
+- 👋🏻 Meeting new people
 
-I use
+I USE
 - `C++`, `C`, `Python`, `Java`, `JS`, `PHP`
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`
 - `googletest`, `google/benchmark`, `Node.js`
 - 🐍 `snake_case`
 
-Working on
+WORKING ON
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
 
-🙏🏻 Waiting for that **code injection** feature in `C++23`...
+🙏🏻 Waiting for that **code injection** feature in `C++23`
 
-Contact me
+CONTACT ME
 - 📜 [Mitya Selivanov][contact-link]
 
-Donate
+DONATE
 - 💎 Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
 - 💸 Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
 
