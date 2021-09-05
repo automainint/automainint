@@ -1,4 +1,4 @@
-### Hi!
+### Hi ❄️
 
 ### I'm a 🏴freelance C++ developer from Moscow, Russia.
 
