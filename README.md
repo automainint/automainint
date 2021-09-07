@@ -10,6 +10,10 @@
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
+<div align="right">
+  ![](pepe.gif)
+</div>
+
 #### I use
 - `C++`, `C`, `Python`, `Java`, `JS`, `PHP`
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`
