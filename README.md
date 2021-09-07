@@ -3,18 +3,15 @@
 ### I'm a 🏴freelance C++ developer from Moscow, Russia.
 
 #### Interested in
+<div align="right">
+![][pepe-link]
+</div>
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
 - ⚙️ Continuous integration
 - 📊 Agile software development
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
-
-<div align="right">
-
-![][pepe-link]
-
-</div>
 
 #### I use
 - `C++`, `C`, `Python`, `Java`, `JS`, `PHP`
