@@ -3,9 +3,11 @@
 ### I'm a 🏴freelance C++ developer from Moscow, Russia.
 
 #### Interested in
+
 <div align="right">
 ![][pepe-link]
 </div>
+
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
 - ⚙️ Continuous integration
