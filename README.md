@@ -4,9 +4,7 @@
 
 #### Interested in
 
-<div align="right">
-![][pepe-link]
-</div>
+<img align="right" src="/pepe.gif" />
 
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
