@@ -11,7 +11,9 @@
 - 👋🏻 Meeting new people
 
 <div align="right">
-  ![](pepe.gif)
+
+![][pepe-link]
+
 </div>
 
 #### I use
@@ -34,6 +36,7 @@
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
+[pepe-link]:    /pepe.gif
 [laplace-link]: https://github.com/automainint/laplace
 [contact-link]: https://guattari.ru/contact
 [artist-link]:  https://guattari.ru
