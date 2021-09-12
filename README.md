@@ -9,7 +9,7 @@
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
 - ⚙️ Continuous integration
-- 📊 Agile software development
+- 🗃 Agile software development
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
@@ -25,7 +25,7 @@
 🙏🏻 Waiting for that **code injection** feature in `C++23`
 
 #### Contact me
-- 📜 [Mitya Selivanov][contact-link]
+- 📜 [Telegram][telegram-link], [Matrix][matrix-link]
 
 #### Donate
 - 💎 Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
@@ -33,7 +33,8 @@
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
-[pepe-link]:    /pepe.gif
-[laplace-link]: https://github.com/automainint/laplace
-[contact-link]: https://guattari.ru/contact
-[artist-link]:  https://guattari.ru
+[pepe-link]:      /pepe.gif
+[laplace-link]:   https://github.com/automainint/laplace
+[telegram-link]:  https://guattari.ru/contact
+[matrix-link]:    https://matrix.to/#/@automainint:matrix.org
+[artist-link]:    https://guattari.ru
