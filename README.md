@@ -27,7 +27,7 @@
 #### Contact me
 - 📜 [Telegram][telegram-link], [Matrix][matrix-link]
 
-#### Donate
+#### For tips
 - 💎 Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
 - 💸 Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
 
