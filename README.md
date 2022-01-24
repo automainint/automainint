@@ -25,7 +25,7 @@
 🙏🏻 Waiting for that **code injection** feature in `C++23`
 
 #### Contact me
-- 📜 [Telegram][telegram-link], [Matrix][matrix-link]
+- 📜 [Telegram][telegram-link], [Matrix][matrix-link], [Discord][discord-link]
 
 #### For tip
 - `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
@@ -38,4 +38,5 @@
 [laplace-link]:   https://github.com/automainint/laplace
 [telegram-link]:  https://guattari.ru/contact
 [matrix-link]:    https://matrix.to/#/@automainint:matrix.org
+[discord-link]:   https://guattari.ru/discord
 [artist-link]:    https://guattari.ru
