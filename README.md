@@ -17,7 +17,7 @@
 - `C++`, `C`, `Python`, `Java`, `JS`, `PHP`
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`
 - `googletest`, `google/benchmark`, `Node.js`
-- 🐍 `snake_case`
+- 🐍 `snake_case`, 🦁 `CLion`
 
 #### Working on
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
