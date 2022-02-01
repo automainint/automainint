@@ -4,7 +4,7 @@
 
 #### Interested in
 
-<img align="right" src="/pepe.gif" width="398" height="394" />
+<img align="right" src="/pepe.gif" />
 
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
