@@ -14,8 +14,8 @@
 - 👋🏻 Meeting new people
 
 #### I use
-- `C++`, `C`, `Python`, `Java`, `JS`, `PHP`
-- `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`
+- `C++`, `C`, `WebAssembly`, `Python`, `Java`, `JS`, `PHP`
+- `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`, `SDL`
 - `googletest`, `google/benchmark`, `Node.js`
 - 🐍 `snake_case`, 🦁 `CLion`
 
