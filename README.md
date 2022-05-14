@@ -10,13 +10,14 @@ I'm a 🏴freelance software engineer from Moscow, Russia. Currently located in 
 - 🤹‍♀️ Test-driven development
 - ⚙️ Continuous integration
 - 🗃 Agile software development
+- ₿ Blockchain & `web3`
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
 #### I use
 - `C++`, `C`, `WebAssembly`, `Python`, `Java`, `JS`, `PHP`
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`, `SDL`
-- `googletest`, `google/benchmark`, `Node.js`
+- `googletest`, `google/benchmark`, `Node.js`, `Solidity`
 - 🐍 `snake_case`, 🦁 `CLion`
 
 #### Working on
