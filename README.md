@@ -23,8 +23,6 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 #### Working on
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
 
-🙏🏻 Waiting for that **code injection** feature in `C++23`
-
 #### Contact me
 - 📜 [Telegram][telegram-link], [Matrix][matrix-link], [Discord][discord-link]
 
