@@ -31,6 +31,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
 - `btc` Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
 - `eth` Ethereum `0x98556fb56e3079696738579dBE70a5Fa761110b9`
+- `waves` Waves `3PQzqLbsd4QbRSw8CbGe3eqeC64kwdTMsLH`
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
