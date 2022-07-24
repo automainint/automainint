@@ -17,7 +17,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 #### I use
 - `C++`, `C`, `Rust`, `WebAssembly`, `Python`, `Java`, `JS`, `PHP`
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`, `SDL`, `warp`
-- `googletest`, `google/benchmark`, `Catch2`
+- `googletest`, `google/benchmark`, `Catch2`, `raylib`
 - `Node.js`, `Solidity`, `Ride`
 - 🐍 `snake_case`, 🦁 `CLion`
 
