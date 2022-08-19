@@ -19,7 +19,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`, `SDL`, `warp`
 - `googletest`, `google/benchmark`, `Catch2`, `raylib`
 - `Node.js`, `Solidity`, `Ride`
-- 🐍 `snake_case`, 🦁 `CLion`
+- 🐍 `snake_case`, 🦁 `CLion`, 🐧 `Linux`
 
 #### Working on
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
