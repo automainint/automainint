@@ -6,9 +6,10 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 <img align="right" src="/pepe.gif" />
 
+- ⚙️ Low-level programming
 - 👨🏼‍💻 Functional programming
 - 🤹‍♀️ Test-driven development
-- ⚙️ Continuous integration
+- ⛓ Continuous integration
 - 🗃 Agile software development
 - 💎 Blockchain & `web3`
 - 🎶 Music synthesis
