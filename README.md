@@ -38,7 +38,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 [pepe-link]:      /pepe.gif
 [laplace-link]:   https://github.com/automainint/laplace
-[telegram-link]:  https://guattari.ru/contact
+[telegram-link]:  https://guattari.tech/contact
 [matrix-link]:    https://matrix.to/#/@automainint:matrix.org
-[discord-link]:   https://guattari.ru/discord
-[artist-link]:    https://guattari.ru
+[discord-link]:   https://guattari.tech/discord
+[artist-link]:    https://guattari.tech
