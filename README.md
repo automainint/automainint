@@ -1,6 +1,6 @@
 ### W e l c o m e ❄️
 
-I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in Tbilisi.
+I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in Bar, Montenegro.
 
 #### Interested in
 
