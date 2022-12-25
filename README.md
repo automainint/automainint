@@ -16,11 +16,17 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - 👋🏻 Meeting new people
 
 #### I use
-- `C`, `C++`, `Rust`, `WebAssembly`, `Python`, `Java`, `JS`, `PHP`
-- `CMake`, `LLVM`, `wolfSSL`, `libcurl`, `OpenGL`, `SDL`, `warp`
-- `googletest`, `google/benchmark`, `Catch2`, `raylib`
-- `Node.js`, `Solidity`, `Ride`
-- 🐍 `snake_case`, 📝 `Neovim`, 🐧 `Linux`
+- ❤️ `C`, 🐍 `snake_case`, 📝 `vim`, 🐧 `Linux`
+- `WebAssembly`, `Python`, `JS`, `Node.js`
+- `CMake`, `LLVM`, `wolfSSL`, `OpenGL`, `SDL`
+- `nginx`
+
+#### Have experience with
+- `C++`, `Rust`, `Java`, `TypeScript`, `PHP`, `Delphi`
+- `Visual Studio`, `Android Studio`, `RAD Studio`
+- `Unreal Engine`, `CLion`, `Catch2`, `raylib`
+- `googletest`, `google/benchmark`
+- `Solidity`, `Ride`
 
 #### Working on
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
