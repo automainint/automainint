@@ -25,7 +25,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - `C++`, `Rust`, `Java`, `TypeScript`, `PHP`, `Delphi`
 - `Visual Studio`, `Android Studio`, `RAD Studio`
 - `Unreal Engine`, `CLion`, `Catch2`, `raylib`
-- `googletest`, `google/benchmark`
+- `googletest`, `google/benchmark`, `libcurl`
 - `Solidity`, `Ride`
 
 #### Working on
