@@ -8,6 +8,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 - ⚙️ Low-level programming
 - 👨🏻‍💻 Functional programming
+- 🔥 Performance engineering
 - 🤹🏻 Test-driven development
 - ⛓ Continuous integration
 - 🗃 Agile software development
