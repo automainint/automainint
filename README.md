@@ -33,7 +33,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - ♟ [Laplace][laplace-link], lockstep framework for RTS games.
 
 #### Contact me
-- 📜 [Telegram][telegram-link], [Matrix][matrix-link], [Discord][discord-link]
+- 📜 [Telegram][telegram-link]
 
 #### For tip
 - ⚡ [Bitcoin Lightning](/bitcoin_lightning)
