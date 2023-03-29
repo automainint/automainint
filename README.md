@@ -13,6 +13,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - ⛓ Continuous integration
 - 🗃 Agile software development
 - 💎 Blockchain & Proof-of-Work
+- 🧩 Puzzle games
 - 🎶 Music synthesis
 - 👋🏻 Meeting new people
 
