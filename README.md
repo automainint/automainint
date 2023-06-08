@@ -35,6 +35,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 #### Contact me
 - 📜 [Telegram][telegram-link]
+- 📜 [Secure messengers][id-link]
 
 #### For tip
 - ⚡ [Bitcoin Lightning](/bitcoin_lightning)
@@ -47,6 +48,5 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 [pepe-link]:      /pepe.gif
 [laplace-link]:   https://github.com/automainint/laplace
 [telegram-link]:  https://guattari.tech/contact
-[matrix-link]:    https://matrix.to/#/@automainint:matrix.org
-[discord-link]:   https://guattari.tech/discord
-[artist-link]:    https://guattari.tech
+[id-link]:        https://guattari.tech/id
+[artist-link]:    https://guattari.tech/music
