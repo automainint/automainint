@@ -6,12 +6,12 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 <img align="right" src="/pepe.gif" />
 
+- ✨ Semantic compression
 - ⚙️ Low-level programming
 - 👨🏻‍💻 Functional programming
 - 🔥 Performance engineering
 - 🤹🏻 Test-driven development
 - ⛓ Continuous integration
-- 🗃 Agile software development
 - 💎 Blockchain & Proof-of-Work
 - 🧩 Puzzle games
 - 🎶 Music synthesis
