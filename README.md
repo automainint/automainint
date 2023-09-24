@@ -31,7 +31,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - `Solidity`, `Ride`
 
 #### Working on
-- ♟ [Laplace][laplace-link], lockstep framework for RTS games.
+- ♟ [Laplace][laplace-link] (on hold), lockstep framework for RTS games.
 
 #### Contact me
 - 📜 [Telegram][telegram-link]
