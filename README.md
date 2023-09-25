@@ -31,6 +31,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - `Solidity`, `Ride`
 
 #### Working on
+- 🎺 [Saw][saw-link], music sequencer and audio editor.
 - ♟ [Laplace][laplace-link] (on hold), lockstep framework for RTS games.
 
 #### Contact me
@@ -46,6 +47,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
 [pepe-link]:      /pepe.gif
+[saw-link]:       https://guattari.tech/git/?p=saw.git;a=summary
 [laplace-link]:   https://github.com/automainint/laplace
 [telegram-link]:  https://guattari.tech/contact
 [id-link]:        https://guattari.tech/id
