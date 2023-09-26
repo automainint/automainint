@@ -19,16 +19,16 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 #### I use
 - ❤️ `C`, 🐍 `snake_case`, 📝 `vim`, 🐧 `Linux`
-- `WebAssembly`, `Python`, `JS`, `Node.js`
-- `CMake`, `LLVM`, `wolfSSL`, `OpenGL`, `SDL`
-- `nginx`
+- `WebAssembly`, `OpenGL`, `nginx`, `wolfSSL`
+- `sokol`, `nanovg`, `miniaudio`
 
 #### Have experience with
-- `C++`, `Rust`, `Java`, `TypeScript`, `PHP`, `Delphi`
+- `C++`, `Rust`, `Python`, `JS`, `Node.js`
+- `Delphi`, `Java`, `TypeScript`, `PHP`
 - `Visual Studio`, `Android Studio`, `RAD Studio`
 - `Unreal Engine`, `CLion`, `Catch2`, `raylib`
 - `googletest`, `google/benchmark`, `libcurl`
-- `Solidity`, `Ride`
+- `Solidity`, `Ride`, `CMake`, `LLVM`, `SDL`
 
 #### Working on
 - 🎺 [Saw][saw-link], music sequencer and audio editor.
