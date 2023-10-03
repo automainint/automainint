@@ -39,10 +39,9 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - 📜 [Secure messengers][id-link]
 
 #### For tip
-- ⚡ [Bitcoin Lightning](/bitcoin_lightning)
+- `xmr` [Monero](/monero)
 - `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
 - `btc` Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
-- `xmr` [Monero](/monero)
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
