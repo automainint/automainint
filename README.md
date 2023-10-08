@@ -8,10 +8,8 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 
 - ✨ Semantic compression
 - ⚙️ Low-level programming
-- 👨🏻‍💻 Functional programming
 - 🔥 Performance engineering
-- 🤹🏻 Test-driven development
-- ⛓ Continuous integration
+- ⚡ Prediction markets
 - 💎 Blockchain & Proof-of-Work
 - 🧩 Puzzle games
 - 🎶 Music synthesis
