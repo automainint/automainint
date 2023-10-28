@@ -44,7 +44,7 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
 [pepe-link]:      /pepe.gif
-[saw-link]:       https://guattari.tech/git/?p=saw.git;a=summary
+[saw-link]:       https://guattari.tech/git/saw
 [laplace-link]:   https://github.com/automainint/laplace
 [telegram-link]:  https://guattari.tech/contact
 [id-link]:        https://guattari.tech/id
