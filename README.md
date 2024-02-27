@@ -16,9 +16,9 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 - 👋🏻 Meeting new people
 
 #### I use
-- ❤️ `C`, 🐍 `snake_case`, 📝 `vim`, 🐧 `Linux`
-- `WebAssembly`, `OpenGL`, `nginx`, `wolfSSL`
-- `sokol`, `nanovg`, `miniaudio`
+- ❤️ `C`, 🐍 `snake_case`, 📝 `helix`, 🐧 `Linux`
+- `WebAssembly`, `OpenGL`, `Vulkan`, `nginx`, `wolfSSL`
+- `stb`, `sokol`, `nanovg`, `miniaudio`
 
 #### Have experience with
 - `C++`, `Rust`, `Python`, `JS`, `Node.js`
