@@ -1,6 +1,6 @@
 ### W e l c o m e ❄️
 
-I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in Bar, Montenegro.
+I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located in Bar, Montenegro.
 
 #### Interested in
 
@@ -39,7 +39,6 @@ I'm a 🏴 freelance software engineer from Moscow, Russia. Currently located in
 #### For tip
 - `xmr` [Monero](/monero)
 - `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
-- `btc` Bitcoin (Legacy) `369h9iMSq8ihjYMwdwhbn2ffXMrprHvxav`
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
