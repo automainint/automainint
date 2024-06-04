@@ -22,11 +22,12 @@ I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located 
 
 #### Have experience with
 - `C++`, `Rust`, `Python`, `JS`, `Node.js`
-- `Delphi`, `Java`, `TypeScript`, `PHP`
+- `Delphi`, `Java`, `TypeScript`, `PHP`, `Go`
 - `Visual Studio`, `Android Studio`, `RAD Studio`
 - `Unreal Engine`, `CLion`, `Catch2`, `raylib`
-- `googletest`, `google/benchmark`, `libcurl`
-- `Solidity`, `Ride`, `CMake`, `LLVM`, `SDL`
+- `SDL`, `Docker`, `Postgres`, `libcurl`, `LLVM`
+- `CMake`, `googletest`, `google/benchmark`
+- `Solidity`, `Ride`
 
 #### Working on
 - 🎺 [Saw][saw-link], music sequencer and audio editor.
@@ -34,7 +35,7 @@ I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located 
 
 #### Contact me
 - 📜 [Telegram][telegram-link]
-- 📜 [Secure messengers][id-link]
+- 📜 [SimpleX Chat][simplexchat-link]
 
 #### For tip
 - `xmr` [Monero](/monero)
@@ -42,9 +43,9 @@ I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located 
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
-[pepe-link]:      /pepe.gif
-[saw-link]:       https://guattari.tech/git/saw
-[laplace-link]:   https://github.com/automainint/laplace
-[telegram-link]:  https://guattari.tech/contact
-[id-link]:        https://guattari.tech/id
-[artist-link]:    https://guattari.tech/music
+[pepe-link]:        /pepe.gif
+[saw-link]:         https://guattari.tech/git/saw
+[laplace-link]:     https://github.com/automainint/laplace
+[telegram-link]:    https://guattari.tech/contact
+[simplexchat-link]: https://guattari.tech/simplexchat
+[artist-link]:      https://guattari.tech/music
