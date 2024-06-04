@@ -1,6 +1,6 @@
 ### W e l c o m e ❄️
 
-I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located in Bar, Montenegro.
+I'm a 🏴 freelance computer programmer from Moscow, Russia. Currently located in Bar, Montenegro. Inspired to make decentralization and cooperation technologies.
 
 #### Interested in
 
