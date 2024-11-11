@@ -39,7 +39,7 @@ I'm a 🏴 freelance computer programmer. Inspired to make decentralization and 
 
 #### For tip
 - `xmr` [Monero](/monero)
-- `btc` Bitcoin `bc1qau5y9wf49ammclhscuelwlm6370d9lqph6g9um`
+- `btc` [Bitcoin](/bitcoin)
 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
