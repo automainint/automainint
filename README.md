@@ -17,8 +17,8 @@ I'm a 🏴 freelance computer programmer. Inspired to make decentralization and 
 
 #### I use
 - ❤️ `C`, 🐍 `snake_case`, 📝 `helix`, 🐧 `Linux`
-- `WebAssembly`, `OpenGL`, `Vulkan`, `nginx`, `wolfSSL`
-- `stb`, `sokol`, `nanovg`, `miniaudio`
+- `WebAssembly`, `OpenGL`, `Vulkan`, `nginx`
+- `wolfSSL`, `stb`
 
 #### Have experience with
 - `C++`, `Rust`, `Python`, `JS`, `Node.js`
