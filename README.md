@@ -44,8 +44,8 @@ I'm a 🏴 freelance computer programmer. Inspired to make decentralization and 
 ❄️ I'm also a **witch house** & **dungeon synth** [artist][artist-link].
 
 [pepe-link]:        /pepe.gif
-[saw-link]:         https://guattari.tech/git/saw
+[saw-link]:         https://guattari.me/git/saw
 [laplace-link]:     https://github.com/automainint/laplace
-[telegram-link]:    https://guattari.tech/contact
-[simplexchat-link]: https://guattari.tech/simplexchat
-[artist-link]:      https://guattari.tech/music
+[telegram-link]:    https://guattari.me/contact
+[simplexchat-link]: https://guattari.me/simplexchat
+[artist-link]:      https://guattari.me/music
